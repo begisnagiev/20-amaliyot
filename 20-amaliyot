@@ -1,0 +1,77 @@
+<div align="center">
+**[Loyiha nima qilishi haqida bitta ta'sirli gap]**
+
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+[🌐 Jonli demo](https://example.com) · [🐞 Xato haqida xabar](https://github.com/username/repo/issues)
+
+</div>
+
+---
+
+## 📖 Loyiha haqida
+
+[Loyiha nima uchun yaratilgani, qanday muammoni hal qilishi va kimga foydali ekanini 2-3 gapda yozing.]
+
+## ✨ Imkoniyatlar
+
+- 🎨 Zamonaviy va responsive dizayn
+- ⚡ Tez ishlash va qulay interfeys
+- 📱 Telefon, planshet va kompyuterda mos ishlaydi
+- 🔧 [O'zingizning imkoniyatingiz]
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📸 Skrinshotlar
+
+![Bosh sahifa](./screenshots/home.png)
+
+## ⚙️ O'rnatish va ishga tushirish
+
+```bash
+# 1. Repozitoriyni yuklab oling
+git clone https://github.com/username/repo-name.git
+
+# 2. Papkaga kiring
+cd repo-name
+
+# 3. Kutubxonalarni o'rnating
+npm install
+
+# 4. Loyihani ishga tushiring
+npm run dev
+```
+
+## 📂 Loyiha tuzilishi
+
+```
+repo-name/
+├── src/
+├── public/
+├── index.html
+└── README.md
+```
+
+## 🤝 Hissa qo'shish
+
+Takliflar va pull request'lar xush kelibsiz. Avval issue oching, keyin o'zgarishlarni muhokama qilamiz.
+
+## 👤 Muallif
+
+**[Ismingiz]**
+GitHub: [@username](https://github.com/username)
+
+---
+
+⭐ Loyiha yoqsa, repozitoriyga yulduzcha qo'yishni unutmang!
